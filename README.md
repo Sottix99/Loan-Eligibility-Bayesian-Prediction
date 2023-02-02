@@ -52,4 +52,5 @@ In my problem set the most important metric trought it evaluating the models is 
 This metric is very usefull when there is a high cost associated with False Negative, In fact, if
 a model classifies many people who will not pay the loan as eligible to get it, this will create
 serious risks for the bank. This metric is always higher than 90%
+
 ![c](Comparison.png)
