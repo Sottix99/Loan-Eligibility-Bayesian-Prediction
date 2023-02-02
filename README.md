@@ -51,6 +51,8 @@ on average every metric shown has values higher than 80%
 In my problem set the most important metric trought it evaluating the models is the Recall.
 This metric is very usefull when there is a high cost associated with False Negative, In fact, if
 a model classifies many people who will not pay the loan as eligible to get it, this will create
-serious risks for the bank. This metric is always higher than 90%
+serious risks for the bank. This metric is always higher than 90%.
+The difference between the various models, holding the random seed generator constant, is low. Therefore, the three models can be expected to act similarly.
+
 
 ![c](Comparison.png)
