@@ -1,4 +1,6 @@
 # Loan Eligibility Bayesian Prediction
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 This Repository refers to the final project of the course Statistical Methods in Data Science and Laboratory II (SDS2) at University Sapienza of Rome 2021/2022.
 
 ![Cover](dataset-cover.jpg)
